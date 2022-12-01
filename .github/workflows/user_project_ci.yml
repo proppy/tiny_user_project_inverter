@@ -146,6 +146,7 @@ jobs:
         key: ${{ runner.os }}-gds-${{ github.run_id }}
 
   precheck:
+    continue-on-error: true
     needs:
     - gds
     runs-on: ubuntu-latest
@@ -163,7 +164,7 @@ jobs:
           openlane.tar
         key: ${{ runner.os }}-setup-${{ env.SETUP_CACHE_KEY }}
 
-    - name: setup
+    - name: setupk
       run: |
         make precheck
 
@@ -188,6 +189,10 @@ jobs:
     - name: check
       run: |
         make run-precheck
+
+    - name: debug
+      run: |
+        find precheck_results/
 
     - name: summary
       run: |
