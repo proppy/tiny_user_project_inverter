@@ -212,6 +212,7 @@ uninstall:
 .PHONY: precheck
 precheck:
 	@git clone --depth=1 --branch $(PRECHECK_TAG) https://github.com/efabless/mpw_precheck.git $(PRECHECK_ROOT)
+	curl -L -o $(PRECHECK_ROOT)/checks/tech-files/gf180mcuC_mr.drc https://github.com/efabless/globalfoundries-pdk-libs-gf180mcu_fd_pr/blob/56d5539de75a7fadf9d9d712592bb5b0d4c22b79/rules/klayout/drc/gf180mcu.drc
 	@docker pull efabless/mpw_precheck:latest
 
 .PHONY: run-precheck
