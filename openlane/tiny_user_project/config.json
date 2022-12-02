@@ -7,7 +7,7 @@
         "dir::../../verilog/rtl/defines.v",
         "dir::../../verilog/rtl/tiny_user_project.v"
     ],
-    "CLOCK_PERIOD": 10,
+    "CLOCK_PERIOD": 24,
     "CLOCK_PORT": "",
     "CLOCK_NET": "",
     "FP_SIZING": "absolute",
