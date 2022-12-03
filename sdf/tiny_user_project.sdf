@@ -1,7 +1,7 @@
 (DELAYFILE
  (SDFVERSION "3.0")
  (DESIGN "tiny_user_project")
- (DATE "Fri Dec  2 00:43:46 2022")
+ (DATE "Sat Dec  3 13:06:31 2022")
  (VENDOR "Parallax")
  (PROGRAM "STA")
  (VERSION "2.3.2")
@@ -12,38 +12,38 @@
   (INSTANCE)
   (DELAY
    (ABSOLUTE
-    (INTERCONNECT io_in[10] input1.I (0.073:0.073:0.073) (0.040:0.040:0.040))
-    (INTERCONNECT io_in[10] ANTENNA_input1_I.I (0.073:0.073:0.073) (0.040:0.040:0.040))
-    (INTERCONNECT io_in[11] input2.I (0.075:0.075:0.075) (0.040:0.040:0.040))
-    (INTERCONNECT io_in[11] ANTENNA_input2_I.I (0.075:0.075:0.075) (0.040:0.040:0.040))
-    (INTERCONNECT io_in[12] input3.I (0.075:0.075:0.075) (0.040:0.040:0.040))
-    (INTERCONNECT io_in[12] ANTENNA_input3_I.I (0.075:0.075:0.075) (0.040:0.040:0.040))
-    (INTERCONNECT io_in[13] input4.I (0.073:0.073:0.073) (0.039:0.039:0.039))
-    (INTERCONNECT io_in[13] ANTENNA_input4_I.I (0.073:0.073:0.073) (0.039:0.039:0.039))
-    (INTERCONNECT io_in[14] input5.I (0.073:0.073:0.073) (0.040:0.040:0.040))
-    (INTERCONNECT io_in[14] ANTENNA_input5_I.I (0.073:0.073:0.073) (0.040:0.040:0.040))
-    (INTERCONNECT io_in[15] input6.I (0.084:0.084:0.084) (0.045:0.045:0.045))
-    (INTERCONNECT io_in[15] ANTENNA_input6_I.I (0.084:0.084:0.084) (0.045:0.045:0.045))
-    (INTERCONNECT io_in[8] input7.I (0.074:0.074:0.074) (0.040:0.040:0.040))
-    (INTERCONNECT io_in[8] ANTENNA_input7_I.I (0.074:0.074:0.074) (0.040:0.040:0.040))
-    (INTERCONNECT io_in[9] input8.I (0.074:0.074:0.074) (0.040:0.040:0.040))
-    (INTERCONNECT io_in[9] ANTENNA_input8_I.I (0.074:0.074:0.074) (0.040:0.040:0.040))
-    (INTERCONNECT _000_.ZN output15.I (0.008:0.008:0.008) (0.008:0.008:0.008))
-    (INTERCONNECT _000_.ZN ANTENNA_output15_I.I (0.008:0.008:0.008) (0.008:0.008:0.008))
-    (INTERCONNECT _001_.ZN output14.I (0.001:0.001:0.001) (0.001:0.001:0.001))
-    (INTERCONNECT _001_.ZN ANTENNA_output14_I.I (0.001:0.001:0.001) (0.001:0.001:0.001))
-    (INTERCONNECT _002_.ZN output13.I (0.031:0.031:0.031) (0.031:0.031:0.031))
-    (INTERCONNECT _002_.ZN ANTENNA_output13_I.I (0.031:0.031:0.031) (0.031:0.031:0.031))
+    (INTERCONNECT io_in[10] input1.I (0.046:0.046:0.046) (0.028:0.028:0.028))
+    (INTERCONNECT io_in[10] ANTENNA_input1_I.I (0.046:0.046:0.046) (0.028:0.028:0.028))
+    (INTERCONNECT io_in[11] input2.I (0.048:0.048:0.048) (0.030:0.030:0.030))
+    (INTERCONNECT io_in[11] ANTENNA_input2_I.I (0.048:0.048:0.048) (0.030:0.030:0.030))
+    (INTERCONNECT io_in[12] input3.I (0.047:0.047:0.047) (0.029:0.029:0.029))
+    (INTERCONNECT io_in[12] ANTENNA_input3_I.I (0.047:0.047:0.047) (0.029:0.029:0.029))
+    (INTERCONNECT io_in[13] input4.I (0.046:0.046:0.046) (0.029:0.029:0.029))
+    (INTERCONNECT io_in[13] ANTENNA_input4_I.I (0.046:0.046:0.046) (0.029:0.029:0.029))
+    (INTERCONNECT io_in[14] input5.I (0.046:0.046:0.046) (0.028:0.028:0.028))
+    (INTERCONNECT io_in[14] ANTENNA_input5_I.I (0.046:0.046:0.046) (0.028:0.028:0.028))
+    (INTERCONNECT io_in[15] input6.I (0.058:0.058:0.058) (0.036:0.036:0.036))
+    (INTERCONNECT io_in[15] ANTENNA_input6_I.I (0.057:0.057:0.057) (0.036:0.036:0.036))
+    (INTERCONNECT io_in[8] input7.I (0.047:0.047:0.047) (0.029:0.029:0.029))
+    (INTERCONNECT io_in[8] ANTENNA_input7_I.I (0.047:0.047:0.047) (0.029:0.029:0.029))
+    (INTERCONNECT io_in[9] input8.I (0.048:0.048:0.048) (0.030:0.030:0.030))
+    (INTERCONNECT io_in[9] ANTENNA_input8_I.I (0.048:0.048:0.048) (0.030:0.030:0.030))
+    (INTERCONNECT _000_.ZN output15.I (0.010:0.010:0.010) (0.010:0.010:0.010))
+    (INTERCONNECT _000_.ZN ANTENNA_output15_I.I (0.010:0.010:0.010) (0.010:0.010:0.010))
+    (INTERCONNECT _001_.ZN output14.I (0.003:0.003:0.003) (0.003:0.003:0.003))
+    (INTERCONNECT _001_.ZN ANTENNA_output14_I.I (0.003:0.003:0.003) (0.003:0.003:0.003))
+    (INTERCONNECT _002_.ZN output13.I (0.024:0.024:0.024) (0.024:0.024:0.024))
+    (INTERCONNECT _002_.ZN ANTENNA_output13_I.I (0.024:0.024:0.024) (0.024:0.024:0.024))
     (INTERCONNECT _003_.ZN output12.I (0.006:0.006:0.006) (0.006:0.006:0.006))
-    (INTERCONNECT _003_.ZN ANTENNA_output12_I.I (0.005:0.005:0.005) (0.005:0.005:0.005))
-    (INTERCONNECT _004_.ZN output11.I (0.023:0.023:0.023) (0.023:0.023:0.023))
-    (INTERCONNECT _004_.ZN ANTENNA_output11_I.I (0.023:0.023:0.023) (0.023:0.023:0.023))
-    (INTERCONNECT _005_.ZN output10.I (0.003:0.003:0.003) (0.003:0.003:0.003))
-    (INTERCONNECT _005_.ZN ANTENNA_output10_I.I (0.003:0.003:0.003) (0.003:0.003:0.003))
-    (INTERCONNECT _006_.ZN output9.I (0.008:0.008:0.008) (0.008:0.008:0.008))
-    (INTERCONNECT _006_.ZN ANTENNA_output9_I.I (0.007:0.007:0.007) (0.007:0.007:0.007))
-    (INTERCONNECT _007_.ZN output16.I (0.005:0.005:0.005) (0.005:0.005:0.005))
-    (INTERCONNECT _007_.ZN ANTENNA_output16_I.I (0.005:0.005:0.005) (0.005:0.005:0.005))
+    (INTERCONNECT _003_.ZN ANTENNA_output12_I.I (0.006:0.006:0.006) (0.006:0.006:0.006))
+    (INTERCONNECT _004_.ZN output11.I (0.017:0.017:0.017) (0.017:0.017:0.017))
+    (INTERCONNECT _004_.ZN ANTENNA_output11_I.I (0.017:0.017:0.017) (0.017:0.017:0.017))
+    (INTERCONNECT _005_.ZN output10.I (0.004:0.004:0.004) (0.004:0.004:0.004))
+    (INTERCONNECT _005_.ZN ANTENNA_output10_I.I (0.004:0.004:0.004) (0.004:0.004:0.004))
+    (INTERCONNECT _006_.ZN output9.I (0.009:0.009:0.009) (0.009:0.009:0.009))
+    (INTERCONNECT _006_.ZN ANTENNA_output9_I.I (0.009:0.009:0.009) (0.009:0.009:0.009))
+    (INTERCONNECT _007_.ZN output16.I (0.006:0.006:0.006) (0.006:0.006:0.006))
+    (INTERCONNECT _007_.ZN ANTENNA_output16_I.I (0.006:0.006:0.006) (0.006:0.006:0.006))
     (INTERCONNECT tiny_user_project_18.ZN la_data_out[1] (0.000:0.000:0.000))
     (INTERCONNECT tiny_user_project_19.ZN la_data_out[2] (0.000:0.000:0.000))
     (INTERCONNECT tiny_user_project_20.ZN la_data_out[3] (0.000:0.000:0.000))
@@ -211,21 +211,21 @@
     (INTERCONNECT tiny_user_project_182.ZN wbs_dat_o[29] (0.000:0.000:0.000))
     (INTERCONNECT tiny_user_project_183.ZN wbs_dat_o[30] (0.000:0.000:0.000))
     (INTERCONNECT tiny_user_project_184.ZN wbs_dat_o[31] (0.000:0.000:0.000))
-    (INTERCONNECT input1.Z _004_.I (0.024:0.024:0.024) (0.024:0.024:0.024))
-    (INTERCONNECT input1.Z ANTENNA__004__I.I (0.024:0.024:0.024) (0.024:0.024:0.024))
-    (INTERCONNECT input2.Z _003_.I (0.002:0.002:0.002) (0.002:0.002:0.002))
-    (INTERCONNECT input2.Z ANTENNA__003__I.I (0.002:0.002:0.002) (0.002:0.002:0.002))
+    (INTERCONNECT input1.Z _004_.I (0.016:0.016:0.016) (0.016:0.016:0.016))
+    (INTERCONNECT input1.Z ANTENNA__004__I.I (0.016:0.016:0.016) (0.016:0.016:0.016))
+    (INTERCONNECT input2.Z _003_.I (0.003:0.003:0.003) (0.003:0.003:0.003))
+    (INTERCONNECT input2.Z ANTENNA__003__I.I (0.003:0.003:0.003) (0.003:0.003:0.003))
     (INTERCONNECT input3.Z _002_.I (0.014:0.014:0.014) (0.014:0.014:0.014))
     (INTERCONNECT input3.Z ANTENNA__002__I.I (0.014:0.014:0.014) (0.014:0.014:0.014))
     (INTERCONNECT input4.Z _001_.I (0.000:0.000:0.000))
-    (INTERCONNECT input5.Z _000_.I (0.005:0.005:0.005) (0.005:0.005:0.005))
-    (INTERCONNECT input5.Z ANTENNA__000__I.I (0.005:0.005:0.005) (0.005:0.005:0.005))
-    (INTERCONNECT input6.Z _007_.I (0.004:0.004:0.004) (0.004:0.004:0.004))
-    (INTERCONNECT input6.Z ANTENNA__007__I.I (0.004:0.004:0.004) (0.004:0.004:0.004))
-    (INTERCONNECT input7.Z _006_.I (0.004:0.004:0.004) (0.004:0.004:0.004))
-    (INTERCONNECT input7.Z ANTENNA__006__I.I (0.004:0.004:0.004) (0.004:0.004:0.004))
-    (INTERCONNECT input8.Z _005_.I (0.002:0.002:0.002) (0.002:0.002:0.002))
-    (INTERCONNECT input8.Z ANTENNA__005__I.I (0.002:0.002:0.002) (0.002:0.002:0.002))
+    (INTERCONNECT input5.Z _000_.I (0.006:0.006:0.006) (0.006:0.006:0.006))
+    (INTERCONNECT input5.Z ANTENNA__000__I.I (0.006:0.006:0.006) (0.006:0.006:0.006))
+    (INTERCONNECT input6.Z _007_.I (0.005:0.005:0.005) (0.005:0.005:0.005))
+    (INTERCONNECT input6.Z ANTENNA__007__I.I (0.005:0.005:0.005) (0.005:0.005:0.005))
+    (INTERCONNECT input7.Z _006_.I (0.006:0.006:0.006) (0.006:0.006:0.006))
+    (INTERCONNECT input7.Z ANTENNA__006__I.I (0.006:0.006:0.006) (0.006:0.006:0.006))
+    (INTERCONNECT input8.Z _005_.I (0.001:0.001:0.001) (0.001:0.001:0.001))
+    (INTERCONNECT input8.Z ANTENNA__005__I.I (0.001:0.001:0.001) (0.001:0.001:0.001))
     (INTERCONNECT output9.Z io_out[16] (0.001:0.001:0.001) (0.001:0.001:0.001))
     (INTERCONNECT output10.Z io_out[17] (0.001:0.001:0.001) (0.001:0.001:0.001))
     (INTERCONNECT output11.Z io_out[18] (0.001:0.001:0.001) (0.001:0.001:0.001))
@@ -243,7 +243,7 @@
   (INSTANCE _000_)
   (DELAY
    (ABSOLUTE
-    (IOPATH I ZN (1.096:1.096:1.096) (1.000:1.000:1.000))
+    (IOPATH I ZN (0.869:0.869:0.869) (0.914:0.914:0.914))
    )
   )
  )
@@ -252,7 +252,7 @@
   (INSTANCE _001_)
   (DELAY
    (ABSOLUTE
-    (IOPATH I ZN (0.439:0.439:0.439) (0.402:0.402:0.402))
+    (IOPATH I ZN (0.516:0.516:0.516) (0.514:0.514:0.514))
    )
   )
  )
@@ -261,7 +261,7 @@
   (INSTANCE _002_)
   (DELAY
    (ABSOLUTE
-    (IOPATH I ZN (2.466:2.466:2.466) (2.238:2.238:2.238))
+    (IOPATH I ZN (1.362:1.362:1.362) (1.457:1.457:1.457))
    )
   )
  )
@@ -270,7 +270,7 @@
   (INSTANCE _003_)
   (DELAY
    (ABSOLUTE
-    (IOPATH I ZN (1.092:1.092:1.092) (0.991:0.991:0.991))
+    (IOPATH I ZN (0.732:0.732:0.732) (0.753:0.753:0.753))
    )
   )
  )
@@ -279,7 +279,7 @@
   (INSTANCE _004_)
   (DELAY
    (ABSOLUTE
-    (IOPATH I ZN (2.539:2.539:2.539) (2.299:2.299:2.299))
+    (IOPATH I ZN (1.236:1.236:1.236) (1.335:1.335:1.335))
    )
   )
  )
@@ -288,7 +288,7 @@
   (INSTANCE _005_)
   (DELAY
    (ABSOLUTE
-    (IOPATH I ZN (0.867:0.867:0.867) (0.787:0.787:0.787))
+    (IOPATH I ZN (0.593:0.593:0.593) (0.605:0.605:0.605))
    )
   )
  )
@@ -297,7 +297,7 @@
   (INSTANCE _006_)
   (DELAY
    (ABSOLUTE
-    (IOPATH I ZN (0.982:0.982:0.982) (0.898:0.898:0.898))
+    (IOPATH I ZN (0.807:0.807:0.807) (0.847:0.847:0.847))
    )
   )
  )
@@ -306,151 +306,151 @@
   (INSTANCE _007_)
   (DELAY
    (ABSOLUTE
-    (IOPATH I ZN (0.877:0.877:0.877) (0.799:0.799:0.799))
+    (IOPATH I ZN (0.695:0.695:0.695) (0.733:0.733:0.733))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_1")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__dlyb_1")
   (INSTANCE input1)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (2.134:2.134:2.134) (1.870:1.870:1.870))
+    (IOPATH I Z (1.709:1.709:1.709) (1.593:1.593:1.593))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_1")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__dlyb_1")
   (INSTANCE input2)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.602:0.602:0.602) (0.545:0.545:0.545))
+    (IOPATH I Z (1.148:1.148:1.148) (1.204:1.204:1.204))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_1")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__dlyb_1")
   (INSTANCE input3)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (1.562:1.562:1.562) (1.376:1.376:1.376))
+    (IOPATH I Z (1.666:1.666:1.666) (1.565:1.565:1.565))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_1")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__dlyb_1")
   (INSTANCE input4)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.341:0.341:0.341) (0.315:0.315:0.315))
+    (IOPATH I Z (0.881:0.881:0.881) (0.962:0.962:0.962))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_1")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__dlyb_1")
   (INSTANCE input5)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.775:0.775:0.775) (0.696:0.696:0.696))
+    (IOPATH I Z (1.322:1.322:1.322) (1.331:1.331:1.331))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_1")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__dlyb_1")
   (INSTANCE input6)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.794:0.794:0.794) (0.712:0.712:0.712))
+    (IOPATH I Z (1.317:1.317:1.317) (1.329:1.329:1.329))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_1")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__dlyb_1")
   (INSTANCE input7)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.753:0.753:0.753) (0.677:0.677:0.677))
+    (IOPATH I Z (1.299:1.299:1.299) (1.315:1.315:1.315))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_1")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__dlyb_1")
   (INSTANCE input8)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.853:0.853:0.853) (0.763:0.763:0.763))
+    (IOPATH I Z (1.097:1.097:1.097) (1.162:1.162:1.162))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_4")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_3")
   (INSTANCE output9)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.756:0.756:0.756) (0.814:0.814:0.814))
+    (IOPATH I Z (0.572:0.572:0.572) (0.627:0.627:0.627))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_4")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_3")
   (INSTANCE output10)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.725:0.725:0.725) (0.777:0.777:0.777))
+    (IOPATH I Z (0.536:0.536:0.536) (0.575:0.575:0.575))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_4")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_3")
   (INSTANCE output11)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.893:0.893:0.893) (1.095:1.095:1.095))
+    (IOPATH I Z (0.632:0.632:0.632) (0.714:0.714:0.714))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_4")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_3")
   (INSTANCE output12)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.790:0.790:0.790) (0.866:0.866:0.866))
+    (IOPATH I Z (0.567:0.567:0.567) (0.616:0.616:0.616))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_4")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_3")
   (INSTANCE output13)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.912:0.912:0.912) (1.104:1.104:1.104))
+    (IOPATH I Z (0.656:0.656:0.656) (0.743:0.743:0.743))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_4")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_3")
   (INSTANCE output14)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.664:0.664:0.664) (0.675:0.675:0.675))
+    (IOPATH I Z (0.528:0.528:0.528) (0.566:0.566:0.566))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_4")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_3")
   (INSTANCE output15)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.775:0.775:0.775) (0.845:0.845:0.845))
+    (IOPATH I Z (0.584:0.584:0.584) (0.642:0.642:0.642))
    )
   )
  )
  (CELL
-  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_4")
+  (CELLTYPE "gf180mcu_fd_sc_mcu7t5v0__clkbuf_3")
   (INSTANCE output16)
   (DELAY
    (ABSOLUTE
-    (IOPATH I Z (0.729:0.729:0.729) (0.781:0.781:0.781))
+    (IOPATH I Z (0.545:0.545:0.545) (0.594:0.594:0.594))
    )
   )
  )
